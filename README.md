@@ -21,6 +21,7 @@ Built with Scikit-learn and Streamlit, the system combines predictive modeling w
 	•	Model accuracy and feature importance insights
 	•	Exportable PDF report of results
 
+https://www.projectpro.io/article/heart-disease-prediction-using-machine-learning-project/615
   
 📂 Project Structure
 ├── App.py          # Main Streamlit application (UI)
