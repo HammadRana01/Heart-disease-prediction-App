@@ -30,6 +30,7 @@ Built with Scikit-learn and Streamlit, the system combines predictive modeling w
 ├── Dataset.csv     # Heart disease dataset (from Kaggle)
 └── requirements.txt # Dependencies
 
+
 ⸻
 
 📊 Example Output
@@ -63,6 +64,7 @@ streamlit run app.py
 	•	Detailed Analysis (ROC curve, confusion matrix, model metrics)
 
 ⸻
+![image](https://github.com/user-attachments/assets/8e9e9ddd-28ea-4917-ad78-fa81af062692)
 
 🔮 Future Improvements
 	•	Add support for more ML/DL models
