@@ -61,10 +61,7 @@ streamlit run app.py
 
 📤 Export Options
 	•	Prediction Report (downloadable as PDF)
-	•	Detailed Analysis (ROC curve, confusion matrix, model metrics)
-
-⸻
-![image](https://github.com/user-attachments/assets/8e9e9ddd-28ea-4917-ad78-fa81af062692)
+	•	Detailed Analysis (ROC curve, confusion matrix)
 
 🔮 Future Improvements
 	•	Add support for more ML/DL models
